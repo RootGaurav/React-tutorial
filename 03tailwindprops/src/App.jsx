@@ -17,6 +17,7 @@ function App() {
      <h1 className='bg-green-400 p-4 rounded-xl'>Tailwind test</h1>
      <Card username="chaiorcode" someObje={myobj} btnText="click me"/>
      <Card username="chaiorcode2" someObje={newArr} btnText="Visit me"/>
+     
     </>
   )
 }
